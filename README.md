@@ -1,5 +1,5 @@
 # WebAssembly
-WebAssembly mac 安装
+WebAssembly c语言模块转js mac 安装
 
 参考：https://webassembly.org/getting-started/developers-guide/
 
